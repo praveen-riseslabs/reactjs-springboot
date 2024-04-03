@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(146, 142, 142);
+}
+
+.loginformcontroller{
+   height: 380px;
+  width: 350px;
+  margin: auto;
+  text-align: center;
+  border: 1px solid black;
+  background-color: white;
+}
+
+.forgetpassword{
+    height: 180px;
+    width: 350px;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.pragraph{
+    font-size: 17px;
+    margin-bottom: 10px;
+
+}

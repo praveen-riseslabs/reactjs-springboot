@@ -1,0 +1,77 @@
+ 
+.form-data{
+    height: 550px;
+    width: 350px;
+    margin: auto;
+    margin-top: 50px;
+   text-align: center;
+   justify-content: center;
+   border: 1px solid rgb(41, 38, 38);
+   border-radius: 15px;
+   background-color: rgba(1, 32, 93, 0.6);
+    
+}
+.content{
+    height: 560px;
+    width: 330px;
+    text-align: center;
+    margin: auto;
+    justify-content: center;
+    padding: 20px;
+    
+}
+
+.form-check-label{
+    color: white
+}
+
+.text{
+    margin: 20px 10px;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: left;
+}
+
+
+.form-control{
+    margin-bottom: 15px;
+}
+
+
+.link-text{
+    text-decoration: none;
+    color:  rgba(179, 49, 49, 0.781);
+}
+
+
+#submitbtn{
+    width: 270px;
+    height: 32px;
+    padding: 6px;
+    margin: 25px 5px;
+    font-weight: 600;
+}
+
+
+.alredyaccount{
+    margin-top: 40px;
+    color: white;
+}
+
+.text1{
+    color: rgba(214, 78, 90, 0.932);
+    text-decoration: none;
+    margin-left: 20px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#signinbtn1, #signupbtn2{
+    margin: 50px 5px;
+    width: 130px;
+   font-weight: 600;
+    margin-top: 40px;
+
+}
+
+

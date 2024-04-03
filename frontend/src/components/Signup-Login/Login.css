@@ -1,0 +1,33 @@
+
+
+.loginformcontroller{    
+   height: 380px;
+  width: 350px;
+  margin: auto;
+  text-align: center;
+  border: 1px solid rgb(41, 38, 38);
+    border-radius: 10px;
+    background-color: rgba(1, 32, 93, 0.6);
+}
+
+.loginPage{
+    background-image: url('../../../public/employeems.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+}
+
+.pragraph{
+    font-size: 17px;
+    margin-bottom: 10px;
+
+}
+
+.forgetpass{
+    margin-left: 170px;
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+    font-size: 14px;
+}
